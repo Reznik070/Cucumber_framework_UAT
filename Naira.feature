@@ -1,6 +1,6 @@
 
 
-Feature: Nairaland Login
+Feature: Online store Login
 
 Scenario: User can login
   
